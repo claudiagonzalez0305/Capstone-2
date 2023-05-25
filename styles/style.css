@@ -1,0 +1,132 @@
+div.container-fluid {
+    background-color: rgb(65, 117, 65);
+}
+
+h1 {
+    padding-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    padding-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    padding-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+img {
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+iframe {
+    padding-left: 50px;
+    margin-top: 50px;
+}
+.carousel-item:active {
+    margin: 3%;
+    position: relative;
+
+
+}
+
+
+.hero-txt {
+    top: 17px;
+    left: 30px;
+    text-align: center;
+
+}
+
+.carousel-caption {
+    margin-bottom: 300px;
+    font-size: 50px;
+    color: #00e4e8;
+
+}
+
+a:link {
+    color: #785289;
+}
+
+a:hover {
+    background-color: rgb(28, 175, 121);
+}
+
+ ul {
+    padding: 35px;
+    font-size: 16px;
+}
+
+li {
+    padding: 35px;
+    font-size: 16px;
+}
+
+#selectOptions {
+    padding-top: 20px;
+}
+
+/* Park */ 
+#parksDescription.card {
+padding-right: 30px;
+padding: 20px;
+}
+
+/* Mountain */
+.col {
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+
+.mb-3 {
+    padding-left: 30px;
+}
+
+.mb-3-form {
+    padding-left: 30px;
+}
+
+#contactBtn {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(65, 117, 65);
+  }
+
+  footer h5{
+    color: #e12a95;
+    font-weight:700 ;
+    font-size: 1.2rem;
+  }
+
+  footer p{
+    color: rgb(17, 7, 25);
+  }
+
+  footer li{
+     padding-bottom: 4px;
+  }
+
+  footer li a{
+    font-size: 0.8rem;
+    color:rgb(14, 13, 11)
+  }
+
+  footer li a:hover{
+    color: #d8d8d8;
+  }
+
+  footer li i:hover{
+    color: #0b5604;
+  }
