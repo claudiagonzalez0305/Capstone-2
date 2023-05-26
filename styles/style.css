@@ -99,34 +99,4 @@ padding: 20px;
     margin-left: 30px;
 }
 
-/* Footer */
-footer {
-    background-color: rgb(65, 117, 65);
-  }
 
-  footer h5{
-    color: black;
-    font-weight:700 ;
-    font-size: 1.2rem;
-  }
-
-  footer p{
-    color: rgb(17, 7, 25);
-  }
-
-  footer li{
-     padding-bottom: 4px;
-  }
-
-  footer li a{
-    font-size: 0.8rem;
-    color:rgb(14, 13, 11)
-  }
-
-  footer li a:hover{
-    color: #d8d8d8;
-  }
-
-  footer li i:hover{
-    color: #0b5604;
-  }
